@@ -1,0 +1,11 @@
+{
+    "dir_metadata_defence_acc": "72.00%",
+    "dir_metadata_total_acc": "81.20%",
+    "dir_metadata_undefence_acc": "90.40%",
+    "ensemble_defence_acc": "82.00%",
+    "ensemble_total_acc": "87.90%",
+    "ensemble_undefence_acc": "93.80%",
+    "time_metadata_defence_acc": "80.60%",
+    "time_metadata_total_acc": "85.30%",
+    "time_metadata_undefence_acc": "90.00%"
+}
